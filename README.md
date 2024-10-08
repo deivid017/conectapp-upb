@@ -29,3 +29,8 @@ ConectAPP UPB es una aplicación que permite a los estudiantes de la Universidad
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
+
+## Colaboradores
+- David Eduardo Flórez Durán
+
+
